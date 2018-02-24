@@ -134,7 +134,7 @@ body {
 
 header.masthead {
   text-align: center;
-  color: #212529;
+  color: black;
   background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -208,7 +208,7 @@ header.masthead {
         height: 20px;
         margin-top: -12px;
         text-align: center;
-        color: #212529; }
+        color: white; }
         #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
           margin-top: -12px; }
         #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
