@@ -134,7 +134,7 @@ body {
 
 header.masthead {
   text-align: center;
-  color: white;
+  color: #212529;
   background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
