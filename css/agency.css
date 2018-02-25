@@ -144,8 +144,8 @@ header.masthead {
   -o-background-size: cover;
   background-size: cover; }
   header.masthead .intro-text {
-    padding-top: 150px;
-    padding-bottom: 100px; }
+    padding-top: 75px;
+    padding-bottom: 50px; }
     header.masthead .intro-text .intro-lead-in {
       font-size: 22px;
       font-style: italic;
